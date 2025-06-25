@@ -3,13 +3,13 @@ Desenvolvi um sistema para um hotel que deseja organizar suas reservas. Ao reali
 - A quantidade de diárias seja obrigatoriamente maior que zero;
 - O valor da diária do quarto não seja negativo nem nulo;
 - O sistema não permita alterações manuais no valor total da reserva.
-- 
+
 Garanti essas regras usando encapsulamento adequado, protegendo os dados e centralizando a lógica de verificação e cálculo dentro das próprias classes.
 
 Criei:
 
 Classe Hospede:
-    - Propriedade pública Nome, definida no construtor
+ - Propriedade pública Nome, definida no construtor
 
 Classe Quarto:
    - Propriedade pública Numero
