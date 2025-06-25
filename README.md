@@ -21,3 +21,6 @@ Classe Reserva:
   - Propriedade somente leitura Quarto (objeto)
   - Propriedade somente leitura ValorTotal (calculada)
   - Construtor que receba Hospede, Quarto e diarias, e valide se as diárias são maiores que zero
+
+    ![image](https://github.com/user-attachments/assets/8e1802c8-c10d-44f7-ab64-52b5d4c28b4e)
+
